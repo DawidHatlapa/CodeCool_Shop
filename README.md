@@ -1,4 +1,4 @@
-# Codecool shop (sprint 2)
+# Codecool shop 
 
 ## Story
 
